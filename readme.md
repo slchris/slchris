@@ -5,6 +5,11 @@
 
 ## I'm a DevOps Engineer, and a student of psychology at Beijing Normal University
 
+
+📚 I am study 
+- Psychology at BNU
+- Harvard Business School ([CORe](https://online.hbs.edu/courses/core/))
+
 ☁️  I am an advocate of Cloud Native and an [GentooLinux](https://www.gentoo.org/) User
 
 🌱 I am an OpenSource Newbie
