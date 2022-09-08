@@ -1,6 +1,6 @@
 # Hi there, I'm Chris Su 👋
 
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<p align="center"><img src="./1.gif" /></p>
 
 
 ## I'm a DevOps Engineer, and a student of psychology at Beijing Normal University
