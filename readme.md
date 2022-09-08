@@ -1,8 +1,14 @@
 # Hi there, I'm Chris Su 👋
 
-## I'm a DevOps Engineer, and a student of psychology at  Beijing Normal University
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
-☁️  I am an advocate of Cloud Native and an GentooLinux User
+
+<p align="center"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" /></p>
+
+
+## I'm a DevOps Engineer, and a student of psychology at Beijing Normal University
+
+☁️  I am an advocate of Cloud Native and an [GentooLinux](https://www.gentoo.org/) User
 
 🌱 I am an OpenSource Newbie
 
@@ -21,7 +27,7 @@
 
 
 ## Languages
-HTML, CSS, Haskell, Racket, C, Java, Python, Golang, Lua, PromQL, HCL
+HTML, CSS, Haskell, Racket, C, Java, Python, Golang, Lua, PromQL, HCL, Matlab
 
 ## Web Development
 
@@ -34,7 +40,7 @@ MongoDB, Mysql, PostgreSQL, InfluxDB
 
 ## DevOps CI/CD and GitOps
 
-GIT, Jenkins, Ansible, Tekton CICD, Argo Workflow, Argo CD, OpenShift, ChatOps
+GIT, Jenkins, Ansible, Tekton CICD, Argo Workflow, Argo CD, OpenShift, ChatOps, GitOps
 
 ## Networking and Firewall
 
@@ -62,8 +68,10 @@ Docker, Kata Container, CRI-O, Containerd, Docker Swarm, Rancher (k3s), CloudFou
 
 HAproxy, Nginx, Trafik, Istio, Linkerd, Envoy, Consul
 
+## BigData
 
+Hadoop, Hbase, Hive, CDH, HDP
 
+## Security
 
-
-
+OpenVas, sonarqube, opencve, Burp Suite, Nesseu, Metasploit, Nmap, sqlmap
