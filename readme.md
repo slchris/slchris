@@ -3,9 +3,6 @@
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 
-<p align="center"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" /></p>
-
-
 ## I'm a DevOps Engineer, and a student of psychology at Beijing Normal University
 
 ☁️  I am an advocate of Cloud Native and an [GentooLinux](https://www.gentoo.org/) User
