@@ -1,8 +1,5 @@
 # Hi there, I'm Chris Su 👋
 
-<p align="center"><img src="./vergil.jpg" /></p>
-
-
 ## About Me 
 
 ```yaml
