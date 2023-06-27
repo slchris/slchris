@@ -14,10 +14,10 @@ metadata:
     api.slchris.github.io/full-name: Chris Su
     api.slchris.github.io/career:  I'm a student of psychology at Beijing Normal University
     api.slchris.github.io/roles: Community Blogger, Cloud Solution Architect, DevOps Specialist, Security Specialist, Content creators
-    api.slchris.github.io/community: @hbs, @gentoo, and @bnu
+    api.slchris.github.io/community: @hbs, @gentoo, @QubesOS and @bnu
     api.slchris.github.io/website: https://slchris.github.io
     api.slchris.github.io/goal: Contribute projects globally
-    api.slchris.github.io/fun-fact: Plan to disconnect
+    api.slchris.github.io/fun-fact: I use Qubes OS btw.
 spec:
   certifications:
   - [x] PMP
