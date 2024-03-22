@@ -122,8 +122,8 @@ spec:
 ![Nix](https://img.shields.io/badge/-Nix-000?&logo=NixOS)
 ![PromQL](https://img.shields.io/badge/-PromQL-000?&logo=Prometheus)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
-![Haskell](img.shields.io/badge/-Haskell-000?&logo=Haskell)
-![Matlab](img.shields.io/badge/-Matlab-000?&logo=Matlab)
-![Rust](img.shields.io/badge/-Rust-000?&logo=Rust)
+![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
+![Matlab](https://img.shields.io/badge/-Matlab-000?&logo=Matlab)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 
 
