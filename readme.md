@@ -5,7 +5,7 @@
 ## GitHub Stats
 
 <a href="https://github.com/slchris">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=chris&show_icons=true&bg_color=00000000" alt="Kevin's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=chris&show_icons=true&bg_color=00000000" alt="Chris Su's github stats"/>
 </a>
 
 ```yaml
