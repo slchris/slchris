@@ -9,7 +9,8 @@
 - [ ] Building and optimizing 1U heterogeneous servers
 - [ ] Rebuilding and expanding my homelab setup
 - [ ] Advancing my proficiency in CAD
-- [ ] 
+
+
 🌱 I am passionate about exploring cutting-edge technologies, continuously learning, and enhancing my skill set.
 📫 Interested in my projects or expertise? Feel free to reach out or check out my latest updates!
 
