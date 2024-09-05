@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Chris Su 👋,  a seasoned system administrator with a background in psychology from Beijing Normal University.
+# 👋 Hi there, I'm Chris Su 👋
 
 [![](https://img.shields.io/badge/blog.plz.ac-up-brightegreen?style=for-the-badge)](https://blog.plz.ac)
 
@@ -6,9 +6,8 @@
 
 🔧 Currently focused on:
 
-- [ ] Building and optimizing 1U heterogeneous servers
-- [ ] Rebuilding and expanding my homelab setup
-- [ ] Advancing my proficiency in CAD
+- [ ] Rebuilding and expanding my homelab openstack setup
+
 
 
 🌱 I am passionate about exploring cutting-edge technologies, continuously learning, and enhancing my skill set.
