@@ -6,7 +6,7 @@
 
 🔧 Currently focused on:
 
-- [ ] Rebuilding and expanding my homelab openstack setup
+- [ ] Rebuilding homelab without Linux
 
 
 
