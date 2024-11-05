@@ -20,8 +20,6 @@
 ### ⚒ Skills
 🥪 **Linux** / 🥗 **Backend** / 🍊 **Network Security** / 🍑 **Machine Learning**
 
-### 🔥 Achievement
-[![Github Achievements](metrics.plugin.achievements.compact.svg)](https://github.com/lowlighter/metrics)
 
 ### 🔧 Tech Stack
 
