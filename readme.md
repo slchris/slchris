@@ -8,7 +8,6 @@
 
 🔧 Currently focused on:
 
-- [ ] VC OS ( VC OS is an immutable server operating system.)
 - [ ] Improving homelab
 
 
@@ -18,7 +17,7 @@
 📫 Interested in my projects or expertise? Feel free to reach out or check out my latest updates!
 
 ### ⚒ Skills
-🥪 **Linux** / 🥗 **Backend** / 🍊 **Network Security** / 🍑 **Machine Learning**
+🥪 **Linux** /🗼 **Architecture** / 🍊 **Network Security**
 
 
 ### 🔧 Tech Stack
@@ -26,7 +25,7 @@
 > Primary Skills
 
 
-[![Primary Skills](https://skillicons.dev/icons?i=vim,git,linux,nix,arch,openstack,openshift,redhat,ros,terraform,vscode,kubernetes,nginx,obsidian,ubuntu,kali,emacs,docker,debian,cloudflare,bsd,azure,aws,apple,elasticsearch,figma,firebase,gcp,github,githubactions,gitlab,grafana,ansible,heroku,jenkins,mysql,mongodb,netlify,notion,postman,prometheus,pug,rabbitmq,raspberrypi,redis,tensorflow,pytorch,opencv,qt,electron,postgres,rabbitmq,stackoverflow)](https://skillicons.dev)
+[![Primary Skills](https://skillicons.dev/icons?i=vim,git,linux,nix,arch,openstack,openshift,redhat,ros,terraform,vscode,kubernetes,nginx,obsidian,ubuntu,kali,emacs,docker,debian,cloudflare,bsd,azure,aws,apple,elasticsearch,figma,firebase,gcp,github,githubactions,gitlab,grafana,ansible,heroku,jenkins,mysql,mongodb,netlify,notion,postman,prometheus,pug,rabbitmq,raspberrypi,redis,tensorflow,pytorch,opencv,qt,electron,postgres,stackoverflow)](https://skillicons.dev)
 
 > Languages
 
