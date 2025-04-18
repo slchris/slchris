@@ -32,8 +32,4 @@
 [![Languages](https://skillicons.dev/icons?i=py,r,rails,go,flask,c,bash,css,html,jquery,cmake,django,flask,flutter,haskell,java,kotlin,lua,md,matlab,ocaml,perl,php,spring,sqlite,scala,swift,ts,wasm,zig)](https://skillicons.dev)
 
 
-
-
-
-凄凄寒月，朔风喧哗，陶陶欢颜，可解冰霜，暗香盈袖，艳影朦胧。
-恍兮惚兮，未解真意，唯有柔情，怡悦我心。
+乘天地之正，御六气之辩
