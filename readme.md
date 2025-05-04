@@ -10,7 +10,7 @@
 
 - [ ] Improving homelab
 
-
+![](./assests/homelab_nuc.jpg)
 
 🌱 I am passionate about exploring cutting-edge technologies, continuously learning, and enhancing my skill set.
 
