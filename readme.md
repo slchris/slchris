@@ -7,5 +7,3 @@
 🔧 Currently focused on:
 
 - [ ] Improving homelab (Self-Driving)
-
-![](./assests/homelab_nuc.jpg)
